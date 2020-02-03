@@ -7,7 +7,7 @@
                     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
                     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
                 </ol>
-                <div class="carousel-inner">
+                <div class="carousel-inner" style="padding-top:100px">
                     <div class="carousel-item header-carousel-item bg-cover1 active"
                         style="background-image: url('~@/../static/img/cap.jpg') ; background-size: 100% cover">
                         <div class="carousel-caption d-none d-md-block p-5 title-bg">
@@ -48,7 +48,7 @@
 
 <style>
 .header{
-    padding-top: 750px;
+    padding-top: 300px;
 }
 
 .header .title-bg{
