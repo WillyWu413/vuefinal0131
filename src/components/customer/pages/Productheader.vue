@@ -9,21 +9,21 @@
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item header-carousel-item bg-cover1 active"
-                        style="background-image: url(../../static/img/cap.jpg) ; background-size: 100% cover">
+                        style="background-image: url('~@/../static/img/cap.jpg) ; background-size: 100% cover">
                         <div class="carousel-caption d-none d-md-block p-5 title-bg">
                             <h2>BOOGNATION復刻衣</h2>
                             <p>經典重現，現正熱賣中，特價三件1800元</p>
                         </div>
                     </div>
                     <div class="carousel-item header-carousel-item bg-cover1"
-                        style="background-image: url(../../static/img/kidcamp.jpg) ; background-size: 100% cover">
+                        style="background-image: url(~@/../static/img/kidcamp.jpg) ; background-size: 100% cover">
                         <div class="carousel-caption d-none d-md-block p-5 title-bg">
                             <h2>屬於小朋友的舞蹈暑假</h2>
                             <p>不知道暑假要讓孩子學習什麼才藝嗎？就來BOOGSTUDIO學習舞蹈吧！</p>
                         </div>
                     </div>
                     <div class="carousel-item header-carousel-item bg-cover1"
-                        style="background-image: url(../../static/img/winter.jpg) ; background-size: 100% cover">
+                        style="background-image: url(~@/../static/img/winter.jpg) ; background-size: 100% cover">
                         <div class="carousel-caption d-none d-md-block p-5 title-bg">
                             <h2>秋冬新款，即將上市</h2>
                             <p>潮流尖端BOOGNATION，即將席捲整個秋冬</p>
